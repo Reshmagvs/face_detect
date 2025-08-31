@@ -25,7 +25,3 @@ LBP is a texture descriptor and face is composed of micro texture patterns. So L
        # 6.Drawing Rectangle on the Face Coordinates
        
        # 7.Display the output Frame
-
-# Output :
-
-To see the output video, go to the media file and check the output video
